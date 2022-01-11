@@ -1,1 +1,3 @@
-# How the kek do I use Markdown?
+## Table of Contents for CSE 15L Labs
+1. [Lab 1](/report-lab1)
+
