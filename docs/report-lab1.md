@@ -9,7 +9,7 @@ First, I would go to [Link]https://code.visualstudio.com/ (or just look up vscod
 ![Placeholder](/cse15l-lab-reports/assets/images/img01-vscode.png)  
 The setup wizard should be installed when I do.  
 I would work through the setup wizard. Under "Other," I would check all of the options like so:  
-![Placeholder](/cse15l-lab-reports/assets/images/img02-optionalapps.png)  
+![Placeholder](assets/images/vscodesetupwizard.png)  
 This is because I actually like to use code to edit my files. It's somehow aestheically pleasing to use, compared to things like Notepad++. Checking all items allows me to access VS Code more easily for different file types.  
 Then I would click Install, and I should be able to open the VS Code application, whether it be via Desktop shortcut or Start Menu shortcut.  
 ## Remotely Connecting
