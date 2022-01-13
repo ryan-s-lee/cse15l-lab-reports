@@ -5,7 +5,7 @@ This article was written as part of an assignment for UCSD's CSE 15L class. Howe
 
 ## Installing VS Code
 As I already had VS Code installed long before the assignment even began, this will be a recount of how I probably would have done it if it wasn't installed.  
-First, I would go to [Link]https://code.visualstudio.com/ (or just look up vscode on Google). I would see a big blue button in the center of the screen saying "Download for Windows," which I would click (Mac users, I would presume would see "Download for Mac").  
+First, I would go to https://code.visualstudio.com/ (or just look up vscode on Google). I would see a big blue button in the center of the screen saying "Download for Windows," which I would click (Mac users, I would presume would see "Download for Mac").  
 ![Placeholder](assets/images/img01-vscode.png)  
 The setup wizard should be installed when I do.  
 I would work through the setup wizard. Under "Other," I would check all of the options like so:  
@@ -26,7 +26,7 @@ Here are some commands to try:
 * `cd [path]` (Change Directory. To backtrack, type cse15l-lab-reports)
 * `ls` (LiSt files in output)
 * `pwd` (prints the Present Working Directory, or the directory you're currently opening, to output)
-* `echo [option]` (ECHO what you typed as output)
+* `echo [text]` (ECHO what you typed as output)
 * `touch [filename]` (make a file)
 * `rm [name]` (ReMove file with the given name)
 * `mkdir [name]` (make directory, or make folder)
@@ -41,7 +41,7 @@ If you were curious, the Windows Command Line equivalent of `ls` is `dir`.
 ![windowsdir](assets/images/lab1/windowsdir.png)  
 ## Moving Files with scp
 Secure Contain Protect lmao  
-`scp` essentially allows you to copy files from your computer to a server. The command goes  
+`scp` essentially allows you to copy files from your computer to a server. The command goes:  
 ``` 
 scp [file] [username]@ieng6.ucsd.edu:[destination-path]
 ```  
@@ -49,10 +49,10 @@ scp [file] [username]@ieng6.ucsd.edu:[destination-path]
 Here is an exapmle of the usage:  
 I have created a file called "afile" containing some text.  
 ![afile](assets/images/lab1/afile.png)  
-Here is a usage of scp on afile, copying it to the home directory. I also log in to the folder to show that it has now appeared in the home directory.  
+Here is a usage of `scp` on afile, copying it to the home directory. I also log in to the folder to show that it has now appeared in the home directory.  
 ![afile](assets/images/lab1/scpexample.png)  
 You can also type a new name for the copied file as part of the `[destination-path]` (e.g. `~\mydirectory\newfilename`). This will generate a new file, which will then receive the copied contents from the client. 
-You will also have to type in your password. to use this service.  
+You will also have to type in your password to use this service (unless you've already shared an SSH Key with the server as described in the next section).  
 ## Setting an SSH Key  
 The more complex your password, the more annoying it is to have to type it in. Wouldn't it be nice if the server could automatically detect that the computer you're logging in with is _yours,_ and automatically let you in? While apparently not the most secure method of logging in (according to the CSE 15L teacher), it is possible.  
 Open a terminal on your client (nothing needs to be done on the server yet). Run `ssh-keygen`. Use the default keygen path by pressing Enter/Return when prompted for a file location to save the generated key. However, if you're asked to overwrite an existing key, it may be in your interest to not overwrite it and save it to another file in the same location (you will probably be able to use C:/Users/username/.ssh/[your-key-name]).  
