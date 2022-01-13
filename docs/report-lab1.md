@@ -37,7 +37,7 @@ Here are some commands to try:
 What's interesting is that these commands don't work by default on Windows. The Windows command prompt and Powershell uses a different set of commands. The reason that you are able to use these commands (if you have a windows computer) is because you are actually working on a Linux machine through your remote connection, and Linux shells (and by extension, Mac shells) have access to these commands. There are ways to make Windows mimic Linux commands, however, which will probably be explained later in the course.
 ![Placeholder](assets/images/lab1/lscmd.png)  
 ![Placeholder](assets/images/lab1/lsfromserver.png)  
-If you were curious, the Windows Command Line equivalent of `ls` is `dir`
+If you were curious, the Windows Command Line equivalent of `ls` is `dir`.  
 ![windowsdir](assets/images/lab1/windowsdir.png)  
 ## Moving Files with scp
 Secure Contain Protect lmao  
