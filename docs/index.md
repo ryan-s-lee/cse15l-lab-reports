@@ -8,7 +8,7 @@
 * __Bold__  
 * [Link](https://google.com)  
 Testing image links  
-![Image](/cse15l-lab-reports/assets/images/Wires.png)  
+![Image](https://raw.githubusercontent.com/ryan-s-lee/cse15l-lab-reports/main/docs/assets/images/Wires.png)  
 ![Image](assets/images/Wires.png)  
 
 > Blockquote  
