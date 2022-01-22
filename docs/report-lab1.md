@@ -5,7 +5,7 @@ This article was written as part of an assignment for UCSD's CSE 15L class. Howe
 
 ## Installing VS Code
 As I already had VS Code installed long before the assignment even began, this will be a recount of how I probably would have done it if it wasn't installed.  
-First, I would go to https://code.visualstudio.com/ (or just look up vscode on Google). I would see a big blue button in the center of the screen saying "Download for Windows," which I would click (Mac users, I would presume would see "Download for Mac").  
+First, I would go to [the VS Code Website](https://code.visualstudio.com/) (or just look up vscode on Google). There should be a big blue button in the center of the screen saying "Download for Windows," which I would click (Mac users, I would presume would see "Download for Mac").  
 ![Placeholder](assets/images/img01-vscode.png)  
 The setup wizard should be installed when I do.  
 I would work through the setup wizard. Under "Other," I would check all of the options like so:  
