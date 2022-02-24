@@ -12,4 +12,4 @@ The ieng6 server stores my private key in the .ssh folder like any normal user a
 The ssh key allows me to commit and push to the server, but I had to change the push mode from HTML to SSH first. It seems like I will have to do this every time I make a repo, at least until I find a shortcut.  
 # The commit
 ![publickey](assets/images/lab3/commitpage.png)  
-Proof that my push worked. 
+Proof that my push worked. Commit page is [here](https://github.com/ryan-s-lee/markdown-parse/commit/ac485187240a403237ccb7849c08e0d2b7589777).
