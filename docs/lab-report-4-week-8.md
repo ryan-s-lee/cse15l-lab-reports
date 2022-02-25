@@ -1,5 +1,5 @@
 
-UCSD CSE 15L Week 8 Report: Github Access from ieng6 (Choice 2)
+UCSD CSE 15L Week 8 Lab Report 4: Github Access from ieng6 (Choice 2)
 ========================
 ## Links to tested repos
 [My repo](www.example.com)  
