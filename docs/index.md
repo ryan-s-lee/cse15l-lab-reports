@@ -1,7 +1,9 @@
 # CSE 11 Lab Reports and Assignments
 ## Table of Contents for CSE 15L Labs
-1. [Lab 1](/cse15l-lab-reports/report-lab1)  
-2. [Lab 2](/cse15l-lab-reports/report-lab2)
+1. [Lab 1](report-lab1)  
+2. [Lab 2](report-lab2)
+3. [Lab 3](report-lab3)
+4. [Lab 4](lab-report-4-week-8)
 
 ---  
 ## Markdown Test
