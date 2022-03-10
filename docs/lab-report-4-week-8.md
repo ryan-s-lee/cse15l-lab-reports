@@ -35,6 +35,7 @@ UCSD CSE 15L Week 8 Lab Report 4: Github Access from ieng6 (Choice 2)
 ### Expected output
 ![snippet3preivew](assets/images/lab4/preview3snippet.png)  
 ```
+[https://www.twitter.com, https://ucsd-cse15l-w22.github.io, https://cse.ucsd.edu]
 ```
 ### Test code
 ![test3code](assets/images/lab4/test3code.png)
