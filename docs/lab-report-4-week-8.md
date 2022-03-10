@@ -18,7 +18,7 @@ UCSD CSE 15L Week 8 Lab Report 4: Github Access from ieng6 (Choice 2)
 ### Reviewed repo's results
 ![review1result](assets/images/lab4/review1result.png)
 
-## Test 1
+## Test 2
 ### Expected output
 ![snippet2preivew](assets/images/lab4/preview2snippet.png)  
 ```
@@ -31,7 +31,7 @@ UCSD CSE 15L Week 8 Lab Report 4: Github Access from ieng6 (Choice 2)
 ### Reviewed repo's results
 ![review2result](assets/images/lab4/review2result.png)
 
-## Test 1
+## Test 3
 ### Expected output
 ![snippet3preivew](assets/images/lab4/preview3snippet.png)  
 ```
